@@ -1,0 +1,1126 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["main"],{
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css":
+/*!************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--6-oneOf-3-1!./node_modules/postcss-loader/src??postcss!./src/App.css ***!
+  \************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".App {\r\n    text-align: center;\r\n  }\r\n  \r\n  p, h1, h2, h3, h4, h5, h6, ul {\r\n    margin: 0;\r\n  }  ", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Header/Header.css":
+/*!**************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--6-oneOf-3-1!./node_modules/postcss-loader/src??postcss!./src/components/Home/Header/Header.css ***!
+  \**************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".masthead {\r\n    position: absolute;\r\n    left: 8%;\r\n    display: flex;\r\n    justify-content: space-between;\r\n    width: 85%;\r\n    height: 80px;\r\n    margin: 0 auto;\r\n    padding: 0 20px;\r\n    background: #002B60;\r\n    border-radius: 0 0px 5px 5px;\r\n    box-sizing: border-box;\r\n    box-shadow: 0 3px 10px rgba(0, 0, 0, .5);\r\n}\r\n\r\n.masthead .logo {\r\n}\r\n\r\n.masthead nav ul {\r\n    margin: 28px 0;\r\n    list-style: none;\r\n    display: flex;\r\n    justify-content: space-between;\r\n}\r\n\r\n.masthead nav ul li a {\r\n    font-size: 14px;\r\n    font-weight: normal;\r\n    color: rgba(255, 255, 255, 1);\r\n    text-decoration: none;\r\n    margin-left: 10px;\r\n}\r\n\r\n.masthead .account {\r\n    list-style: none;\r\n    display: flex;\r\n    justify-content: space-between;\r\n    margin: 2.7% 0;\r\n}\r\n\r\n.masthead .account li a {\r\n    color: #ffffff;\r\n    text-decoration: none;\r\n    background: #88BC47;\r\n    padding: 12px 40px;\r\n    border-radius: 25px 25px ;\r\n    box-shadow: -3px 3px 20px rgba(0, 0, 0, .3);\r\n}\r\n\r\n.masthead .account li:first-child a {\r\n    color: #88BC47;\r\n    background: none;\r\n    padding: 0;\r\n    margin-right: 15px;\r\n    box-shadow: none;\r\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/LandingPage/LandingPage.css":
+/*!************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--6-oneOf-3-1!./node_modules/postcss-loader/src??postcss!./src/components/Home/LandingPage/LandingPage.css ***!
+  \************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var escape = __webpack_require__(/*! ../../../../node_modules/css-loader/lib/url/escape.js */ "./node_modules/css-loader/lib/url/escape.js");
+exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".landing {\r\n    text-align: left;\r\n    background: url(" + escape(__webpack_require__(/*! ./bg.svg */ "./src/components/Home/LandingPage/bg.svg")) + ") no-repeat;\r\n    background-size: 100%;\r\n    width: 100%;\r\n    height: 100vh;\r\n    box-sizing: border-box;\r\n    overflow: hidden;\r\n}\r\n\r\n.landing .banner {\r\n    width: 50%;\r\n    position: relative;\r\n    top: 25%;\r\n    left: 8%;\r\n}\r\n\r\n.landing .banner h2 {\r\n    color: #002B60;\r\n    font-size: 56px;\r\n}\r\n\r\n.landing .banner p {\r\n    color: #ffffff;\r\n    width: 65%;\r\n    margin: 15px 0;\r\n}\r\n\r\n.landing .banner a {\r\n    display: inline-block;\r\n    color: #ffffff;\r\n    text-decoration: none;\r\n    background: #002B60;\r\n    padding: 15px 50px;\r\n    border-radius: 25px 25px;\r\n    margin-top: 15px;\r\n    box-shadow: -3px 3px 20px rgba(0, 0, 0, .3);\r\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Product/Product.css":
+/*!****************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--6-oneOf-3-1!./node_modules/postcss-loader/src??postcss!./src/components/Home/Product/Product.css ***!
+  \****************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".product {\r\n    width: 100%;\r\n    height: 100vh;\r\n    margin: 0 auto;\r\n    margin-top: -60px;\r\n    box-sizing: border-box;\r\n}\r\n\r\n.product .product-icon {\r\n    width: 86%;\r\n    height: 120px;\r\n    margin: 0 auto;\r\n    background: #ffffff;\r\n    border-radius: 10px;\r\n    box-shadow: -3px 3px 20px rgba(0, 0, 0, .3);\r\n}\r\n\r\n.product .product-icon ul {\r\n    list-style: none;\r\n    display: flex;\r\n    justify-content: space-between;\r\n    padding: 0;\r\n    \r\n}\r\n\r\n.product .product-icon ul li {\r\n    \r\n    width: 100%;\r\n    padding: 40px 40px;\r\n    border-right: 1px solid #000000;\r\n}\r\n\r\n.product .product-icon ul li {\r\n    color: #88BC47;\r\n    width: 100%;\r\n    padding: 40px 40px;\r\n    border-right: 1px solid rgba(150, 150, 150, .3);\r\n}\r\n\r\n.product .product-icon ul li img {\r\n    float: left;\r\n    margin-right: 15px;\r\n}\r\n\r\n.product .product-icon ul li span {\r\n    text-align: left;\r\n    display: block;\r\n    margin: 10px 0;\r\n}\r\n\r\n.product h2 {\r\n    color: #002B60;\r\n    width: 50%;\r\n    font-size: 54px;\r\n    margin: 5% auto;\r\n}\r\n\r\n.product .product-card {\r\n    float: left;\r\n    width: 250px;\r\n    margin: 5px auto;\r\n    padding: 20px;\r\n    border-radius: 5px;\r\n    box-shadow: -3px 3px 20px rgba(0, 0, 0, .3);\r\n}\r\n\r\n.product .product-card img {\r\n    width: 40%;\r\n    border-radius: 50%;\r\n}\r\n\r\n.product .product-card h3 {\r\n    color: #88BC47;\r\n    font-size: 24px;\r\n    margin: 25px 0;\r\n}\r\n\r\n\r\n.product .product-card p {\r\n    font-size: 18px;\r\n    width: 80%;\r\n    margin: 0 auto;\r\n}\r\n\r\n\r\n\r\n", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css":
+/*!**************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--6-oneOf-3-1!./node_modules/postcss-loader/src??postcss!./src/index.css ***!
+  \**************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, "body {\r\n    margin: 0;\r\n    padding: 0;\r\n    font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\",\r\n      \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\",\r\n      sans-serif;\r\n    -webkit-font-smoothing: antialiased;\r\n    -moz-osx-font-smoothing: grayscale;\r\n  }\r\n  \r\n  code {\r\n    font-family: source-code-pro, Menlo, Monaco, Consolas, \"Courier New\",\r\n      monospace;\r\n  }\r\n  ", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./src/App.css":
+/*!*********************!*\
+  !*** ./src/App.css ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../node_modules/css-loader??ref--6-oneOf-3-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(true) {
+	module.hot.accept(/*! !../node_modules/css-loader??ref--6-oneOf-3-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css", function() {
+		var newContent = __webpack_require__(/*! !../node_modules/css-loader??ref--6-oneOf-3-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css");
+
+		if(typeof newContent === 'string') newContent = [[module.i, newContent, '']];
+
+		var locals = (function(a, b) {
+			var key, idx = 0;
+
+			for(key in a) {
+				if(!b || a[key] !== b[key]) return false;
+				idx++;
+			}
+
+			for(key in b) idx--;
+
+			return idx === 0;
+		}(content.locals, newContent.locals));
+
+		if(!locals) throw new Error('Aborting CSS HMR due to changed css-modules locals.');
+
+		update(newContent);
+	});
+
+	module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+
+/***/ "./src/App.js":
+/*!********************!*\
+  !*** ./src/App.js ***!
+  \********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime/helpers/esm/classCallCheck.js");
+/* harmony import */ var _mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/createClass */ "./node_modules/@babel/runtime/helpers/esm/createClass.js");
+/* harmony import */ var _mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/inherits */ "./node_modules/@babel/runtime/helpers/esm/inherits.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./App.css */ "./src/App.css");
+/* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_App_css__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _components_Home_Home__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/Home/Home */ "./src/components/Home/Home.js");
+
+
+
+
+
+var _jsxFileName = "/mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/src/App.js";
+
+
+
+
+var App =
+/*#__PURE__*/
+function (_Component) {
+  Object(_mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(App, _Component);
+
+  function App() {
+    Object(_mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, App);
+
+    return Object(_mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(App).apply(this, arguments));
+  }
+
+  Object(_mnt_c_Users_Thabiso_Documents_github_job_AfricanBank_africanbank_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(App, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "App",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 8
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_components_Home_Home__WEBPACK_IMPORTED_MODULE_7__["default"], {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }));
+    }
+  }]);
+
+  return App;
+}(react__WEBPACK_IMPORTED_MODULE_5__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (App);
+
+/***/ }),
+
+/***/ "./src/components/Home/Header/Header.css":
+/*!***********************************************!*\
+  !*** ./src/components/Home/Header/Header.css ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./Header.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Header/Header.css");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(true) {
+	module.hot.accept(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./Header.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Header/Header.css", function() {
+		var newContent = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./Header.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Header/Header.css");
+
+		if(typeof newContent === 'string') newContent = [[module.i, newContent, '']];
+
+		var locals = (function(a, b) {
+			var key, idx = 0;
+
+			for(key in a) {
+				if(!b || a[key] !== b[key]) return false;
+				idx++;
+			}
+
+			for(key in b) idx--;
+
+			return idx === 0;
+		}(content.locals, newContent.locals));
+
+		if(!locals) throw new Error('Aborting CSS HMR due to changed css-modules locals.');
+
+		update(newContent);
+	});
+
+	module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+
+/***/ "./src/components/Home/Header/Header.js":
+/*!**********************************************!*\
+  !*** ./src/components/Home/Header/Header.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _Header_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Header.css */ "./src/components/Home/Header/Header.css");
+/* harmony import */ var _Header_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Header_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _logo_svg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./logo.svg */ "./src/components/Home/Header/logo.svg");
+/* harmony import */ var _logo_svg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_logo_svg__WEBPACK_IMPORTED_MODULE_2__);
+var _jsxFileName = "/mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/src/components/Home/Header/Header.js";
+
+
+
+
+var Header = function Header() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
+    className: "masthead",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _logo_svg__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: "logo",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, "Products")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }, "Talk to us")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, "Branches")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, "More")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, "Investors")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, "Upload Documents")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    className: "account",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, "Register")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }, "Login"))));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Header);
+
+/***/ }),
+
+/***/ "./src/components/Home/Header/logo.svg":
+/*!*********************************************!*\
+  !*** ./src/components/Home/Header/logo.svg ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "logo.svg";
+
+/***/ }),
+
+/***/ "./src/components/Home/Home.js":
+/*!*************************************!*\
+  !*** ./src/components/Home/Home.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _Header_Header__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Header/Header */ "./src/components/Home/Header/Header.js");
+/* harmony import */ var _LandingPage_LandingPage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./LandingPage/LandingPage */ "./src/components/Home/LandingPage/LandingPage.js");
+/* harmony import */ var _Product_Product__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Product/Product */ "./src/components/Home/Product/Product.js");
+var _jsxFileName = "/mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/src/components/Home/Home.js";
+
+
+
+
+
+var Home = function Home() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "home",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Header_Header__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_LandingPage_LandingPage__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Product_Product__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Home);
+
+/***/ }),
+
+/***/ "./src/components/Home/LandingPage/LandingPage.css":
+/*!*********************************************************!*\
+  !*** ./src/components/Home/LandingPage/LandingPage.css ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./LandingPage.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/LandingPage/LandingPage.css");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(true) {
+	module.hot.accept(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./LandingPage.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/LandingPage/LandingPage.css", function() {
+		var newContent = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./LandingPage.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/LandingPage/LandingPage.css");
+
+		if(typeof newContent === 'string') newContent = [[module.i, newContent, '']];
+
+		var locals = (function(a, b) {
+			var key, idx = 0;
+
+			for(key in a) {
+				if(!b || a[key] !== b[key]) return false;
+				idx++;
+			}
+
+			for(key in b) idx--;
+
+			return idx === 0;
+		}(content.locals, newContent.locals));
+
+		if(!locals) throw new Error('Aborting CSS HMR due to changed css-modules locals.');
+
+		update(newContent);
+	});
+
+	module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+
+/***/ "./src/components/Home/LandingPage/LandingPage.js":
+/*!********************************************************!*\
+  !*** ./src/components/Home/LandingPage/LandingPage.js ***!
+  \********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _LandingPage_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./LandingPage.css */ "./src/components/Home/LandingPage/LandingPage.css");
+/* harmony import */ var _LandingPage_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_LandingPage_css__WEBPACK_IMPORTED_MODULE_1__);
+var _jsxFileName = "/mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/src/components/Home/LandingPage/LandingPage.js";
+
+
+
+var LandingPage = function LandingPage() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    className: "landing",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 6
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+    className: "banner",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, "10.75% - Still SA\u2019s best investment rate!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Everyone can grow their money with our fixed rate of 10.75%* per year or 13.33%** at expiry after 60 months. Open an account in 3 minutes. Ts & Cs apply"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "/",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }, "Read more")));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (LandingPage);
+
+/***/ }),
+
+/***/ "./src/components/Home/LandingPage/bg.svg":
+/*!************************************************!*\
+  !*** ./src/components/Home/LandingPage/bg.svg ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "bg.svg";
+
+/***/ }),
+
+/***/ "./src/components/Home/Product/Product.css":
+/*!*************************************************!*\
+  !*** ./src/components/Home/Product/Product.css ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./Product.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Product/Product.css");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(true) {
+	module.hot.accept(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./Product.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Product/Product.css", function() {
+		var newContent = __webpack_require__(/*! !../../../../node_modules/css-loader??ref--6-oneOf-3-1!../../../../node_modules/postcss-loader/src??postcss!./Product.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/components/Home/Product/Product.css");
+
+		if(typeof newContent === 'string') newContent = [[module.i, newContent, '']];
+
+		var locals = (function(a, b) {
+			var key, idx = 0;
+
+			for(key in a) {
+				if(!b || a[key] !== b[key]) return false;
+				idx++;
+			}
+
+			for(key in b) idx--;
+
+			return idx === 0;
+		}(content.locals, newContent.locals));
+
+		if(!locals) throw new Error('Aborting CSS HMR due to changed css-modules locals.');
+
+		update(newContent);
+	});
+
+	module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+
+/***/ "./src/components/Home/Product/Product.js":
+/*!************************************************!*\
+  !*** ./src/components/Home/Product/Product.js ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _Product_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Product.css */ "./src/components/Home/Product/Product.css");
+/* harmony import */ var _Product_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Product_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _card_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./card.png */ "./src/components/Home/Product/card.png");
+/* harmony import */ var _card_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_card_png__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _save_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./save.png */ "./src/components/Home/Product/save.png");
+/* harmony import */ var _save_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_save_png__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _loan_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./loan.png */ "./src/components/Home/Product/loan.png");
+/* harmony import */ var _loan_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_loan_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _insure_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./insure.png */ "./src/components/Home/Product/insure.png");
+/* harmony import */ var _insure_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_insure_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _avatar_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./avatar.jpg */ "./src/components/Home/Product/avatar.jpg");
+/* harmony import */ var _avatar_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_avatar_jpg__WEBPACK_IMPORTED_MODULE_6__);
+var _jsxFileName = "/mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/src/components/Home/Product/Product.js";
+
+
+
+
+
+
+
+
+var Product = function Product() {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    className: "product",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+    className: "product-icon",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _loan_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+    alt: "loans",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, "LOANS")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _save_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    alt: "save",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, "SAVE & INVEST")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _card_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    alt: "credit",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, "CREDIT CARD")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _insure_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+    alt: "insure",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }, "INSURE")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }, "Get the Credit Card that supports your lifestyle."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "product-card",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _avatar_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    alt: "avatar",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    },
+    __self: this
+  }, "Personal Loan "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  }, "Borrow from R500 to R250 000 with fixed repayments over 7 to 72 months ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "product-card",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _avatar_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    alt: "avatar",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 32
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34
+    },
+    __self: this
+  }, "Personal Loan "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 35
+    },
+    __self: this
+  }, "Borrow from R500 to R250 000 with fixed repayments over 7 to 72 months ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "product-card",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _avatar_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    alt: "avatar",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 39
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41
+    },
+    __self: this
+  }, "Personal Loan "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42
+    },
+    __self: this
+  }, "Borrow from R500 to R250 000 with fixed repayments over 7 to 72 months ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "product-card",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 44
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("figure", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 45
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _avatar_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,
+    alt: "avatar",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 46
+    },
+    __self: this
+  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 48
+    },
+    __self: this
+  }, "Personal Loan "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 49
+    },
+    __self: this
+  }, "Borrow from R500 to R250 000 with fixed repayments over 7 to 72 months "))));
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (Product);
+
+/***/ }),
+
+/***/ "./src/components/Home/Product/avatar.jpg":
+/*!************************************************!*\
+  !*** ./src/components/Home/Product/avatar.jpg ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "avatar.jpg";
+
+/***/ }),
+
+/***/ "./src/components/Home/Product/card.png":
+/*!**********************************************!*\
+  !*** ./src/components/Home/Product/card.png ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAqCAYAAADBNhlmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIhSURBVFhH7Zg9aBRBGIbfb7OHOY3HNVpolQhCTmKRNELA8kJIYSF2/pyFNtrEUiwttImFsdHCoKVYWCRg0M7C5kQMxCpnpUIsjGcSI9nbz3dm57gQsNrkdg/mgZvvZ76Dl/nb2YXH4+lxxFngzHQRzbUpZkYhccFlu4tKxF8dxcIC6o83TSoROFw7B9EZiAzZOGtUGxR6C5/nXglOXhxEGC5R6iEoFtn7jgV/XGl3ESmyHaedoJYNRNGI4FRtlskbTDzH8txlW5g1ldozDtgleo8CNmM2qXhibR7oaBkLOJ1HrRvKV2vzQFsLtZkRzDWCypVVLsojlPuBQ7vl8tki6GczyhH8YQRuUOBB15UvVDeNwBV7/qlc4Fn4zXVli8oxanlBgY2OwEBOYOlpw5Wk4v7biYexYkpjnbldXZy996Y6r5BhjeVmEMR36Zcp4jxFvDT1rW2M35l8/d3+2TBydQixrhiB+7ZJ+IgadK5lZ9z2Bdq/u243vbCLaz/Zljnxfxmqy6ficKmVPOPJ72af7oz/h6lzLlHWywGeKmtmDf7iGiy5nnyh2uxsEvRVsB59cV3ZMhByXbaW920Xp6Ybu3iv8ALT4gWmxQtMSw8IFFm1XqTHrc0DbS3UZkawngS4Zm0eEL3uvHry4l4IPzEY4O0h2xf3wNxg5CwHq8poHdvR6eQalOtPH23y8PEoFnMn/YhSeR7vH2Qzix6PZ08B/gGo/r+fbok2twAAAABJRU5ErkJggg=="
+
+/***/ }),
+
+/***/ "./src/components/Home/Product/insure.png":
+/*!************************************************!*\
+  !*** ./src/components/Home/Product/insure.png ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,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"
+
+/***/ }),
+
+/***/ "./src/components/Home/Product/loan.png":
+/*!**********************************************!*\
+  !*** ./src/components/Home/Product/loan.png ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,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"
+
+/***/ }),
+
+/***/ "./src/components/Home/Product/save.png":
+/*!**********************************************!*\
+  !*** ./src/components/Home/Product/save.png ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "data:image/png;base64,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"
+
+/***/ }),
+
+/***/ "./src/index.css":
+/*!***********************!*\
+  !*** ./src/index.css ***!
+  \***********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../node_modules/css-loader??ref--6-oneOf-3-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(true) {
+	module.hot.accept(/*! !../node_modules/css-loader??ref--6-oneOf-3-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css", function() {
+		var newContent = __webpack_require__(/*! !../node_modules/css-loader??ref--6-oneOf-3-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css");
+
+		if(typeof newContent === 'string') newContent = [[module.i, newContent, '']];
+
+		var locals = (function(a, b) {
+			var key, idx = 0;
+
+			for(key in a) {
+				if(!b || a[key] !== b[key]) return false;
+				idx++;
+			}
+
+			for(key in b) idx--;
+
+			return idx === 0;
+		}(content.locals, newContent.locals));
+
+		if(!locals) throw new Error('Aborting CSS HMR due to changed css-modules locals.');
+
+		update(newContent);
+	});
+
+	module.hot.dispose(function() { update(); });
+}
+
+/***/ }),
+
+/***/ "./src/index.js":
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./index.css */ "./src/index.css");
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./App */ "./src/App.js");
+var _jsxFileName = "/mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/src/index.js";
+
+
+
+
+react_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_App__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 6
+  },
+  __self: undefined
+}), document.getElementById('root')); // If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: http://bit.ly/CRA-PWA
+
+/***/ }),
+
+/***/ 0:
+/*!**********************************************************************************!*\
+  !*** multi ./node_modules/react-dev-utils/webpackHotDevClient.js ./src/index.js ***!
+  \**********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(/*! /mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/node_modules/react-dev-utils/webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
+module.exports = __webpack_require__(/*! /mnt/c/Users/Thabiso/Documents/github/job/AfricanBank/africanbank/src/index.js */"./src/index.js");
+
+
+/***/ })
+
+},[[0,"runtime~main",1]]]);
+//# sourceMappingURL=main.chunk.js.map
